@@ -1,6 +1,6 @@
 The dataset contains 1036 images spread across  5 classes.
 This dataset contains various types of disease such as canker,black spot,mealnose,healthy,greening.
-# Dataset Description :- 
+# Dataset Description :
 ________________________
 | Disease     | Images  |
 |  Black spot | 171     | 
@@ -9,4 +9,4 @@ ________________________
 | Healthy     | 485     |
 | Melanose    | 13      |
 ------------------------
-# DataSet Link :- (https://data.mendeley.com/datasets/3f83gxmv57/2)
+# DataSet Link : (https://data.mendeley.com/datasets/3f83gxmv57/2)
