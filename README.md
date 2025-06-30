@@ -20,7 +20,7 @@ A deep learning-based system that classifies citrus leaf diseases using Convolut
 - **TensorFlow / Keras**
 - **NumPy & Pandas**
 - **Matplotlib / Seaborn**
-- **Streamlit / Flask** (for web deployment)
+- **OpenCV**
 
 ---
 
